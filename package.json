@@ -1,0 +1,14 @@
+{
+  "name": "zombie-treasure-hunt",
+  "version": "2.0.0",
+  "description": "2D Horror Zombie Survival Adventure Game Built in Java 24",
+  "main": "bin/com/zombiegame/Main.class",
+  "scripts": {
+    "start": "java -cp bin com.zombiegame.Main",
+    "build": "javac -d bin -sourcepath src (Get-ChildItem -Recurse src -Filter *.java).FullName",
+    "test": "mvn test"
+  },
+  "keywords": ["java", "game", "zombie", "survival", "horror", "2d"],
+  "author": "ZombieGame Dev Team",
+  "license": "MIT"
+}
