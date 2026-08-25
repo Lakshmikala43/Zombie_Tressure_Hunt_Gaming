@@ -16,6 +16,7 @@ A 2D Horror Zombie Survival Adventure Game built in **Java 24** featuring hardwa
 - [Unit Testing & Test Coverage](#unit-testing--test-coverage)
 - [Docker Support](#docker-support)
 - [Git Workflow & Branching Strategy](#git-workflow--branching-strategy)
+- [License](#license)
 
 ---
 
@@ -132,3 +133,9 @@ The project adheres to a Git-flow branching model featuring:
 - Feature branches (`feature/core-engine`, `feature/entities-weapons`, `feature/zombies-boss-ai`, `feature/world-audio-ui`).
 - Explicit non-fast-forward merge commits (`git merge --no-ff`).
 - Structured commit messages (`feat:`, `test:`, `docs:`).
+
+---
+
+## 📄 License
+
+Proprietary and Confidential. Copyright (c) 2026 ZombieGame Dev Team. All Rights Reserved.
