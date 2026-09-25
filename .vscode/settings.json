@@ -1,0 +1,11 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.DS_Store": true,
+        "**/bin": false
+    },
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin"
+}
